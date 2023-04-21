@@ -8,5 +8,11 @@ public class NekiTest
         System.out.println("valjda radi");
         System.out.println("radi");
         System.out.println("radi sigurno");
+        System.out.println("dodajemo jos");
+    }
+    @Test
+    public void newTest()
+    {
+        System.out.println("novi test");
     }
 }
