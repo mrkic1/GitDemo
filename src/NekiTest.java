@@ -14,5 +14,7 @@ public class NekiTest
     public void newTest()
     {
         System.out.println("novi test");
+        System.out.println("jos novog");
+        System.out.println("afjiafjafj");
     }
 }
