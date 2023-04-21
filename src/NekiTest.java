@@ -3,8 +3,10 @@ import org.testng.annotations.Test;
 public class NekiTest
 {
     @Test
-    void setup()
+   public void setup()
     {
-        System.out.println("Prvi test, valjda radi");
+        System.out.println("valjda radi");
+        System.out.println("radi");
+        System.out.println("radi sigurno");
     }
 }
